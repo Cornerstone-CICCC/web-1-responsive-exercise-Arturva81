@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background: #3498db;
+    background: #0E7490;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -54,7 +54,7 @@ main {
 }
 
 .card {
-    background: #2ecc71;
+    background: #F97316;
     color: white;
     padding: 20px;
     flex: 1;
@@ -64,7 +64,7 @@ main {
 }
 
 footer {
-    background: #333;
+    background: #164E63;
     color: white;
     text-align: center;
     padding: 10px 0;
